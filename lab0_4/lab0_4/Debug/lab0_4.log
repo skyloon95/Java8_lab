@@ -1,0 +1,6 @@
+﻿  main.c
+c:\users\skylo\documents\필기\자바프로그래밍\실습\lab0_4\lab0_4\main.c(1): warning C4067: 전처리기 지시문 다음에 예기치 않은 토큰이 있습니다. 줄 바꿈 문자가 필요합니다.
+c:\users\skylo\documents\필기\자바프로그래밍\실습\lab0_4\lab0_4\main.c(20): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+  lab0_4.vcxproj -> C:\Users\skylo\Documents\필기\자바프로그래밍\실습\lab0_4\Debug\lab0_4.exe
+  lab0_4.vcxproj -> C:\Users\skylo\Documents\필기\자바프로그래밍\실습\lab0_4\Debug\lab0_4.pdb (Full PDB)
